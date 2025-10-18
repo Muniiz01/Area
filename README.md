@@ -1,1 +1,1 @@
-# Area
+Desenvolvimento de uma landing page pessoal para divulgação de serviços, utilizando ASP.NET com Razor Pages, Bootstrap e JavaScript. Design criado no Figma e implementado com foco em responsividade e experiência do usuário.
