@@ -436,11 +436,30 @@ h1 {
 
     .css-ovwsc{
         overflow-x: scroll;
-        width: 600px;
+        width: 440px !important;
     }
 
     .css-igbn4 {
         height: 600px;
+    }
+
+    .css-cont4 div{
+        display: none;
+    }
+
+    .main-cont{
+        border: 0 !important;
+    }
+
+    .css-textM{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-bottom: 40px;
+    }
+    .css-nvdp{
+        
+        padding: 10px;
     }
 }
 
